@@ -1,0 +1,8 @@
+192.0.2.10
+198.51.100.25
+203.0.113.75
+malicious-example.com
+suspicious-example.org
+https://malicious-example.com/login
+https://suspicious-example.org/download
+d41d8cd98f00b204e9800998ecf8427e

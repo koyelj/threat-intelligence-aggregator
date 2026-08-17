@@ -1,0 +1,14 @@
+[
+    {
+        "ioc": "8.8.8.8",
+        "type": "ip",
+        "occurrence_count": 2,
+        "feed_count": 2,
+        "severity": "MEDIUM",
+        "risk_score": 55,
+        "sources": [
+            "Sample OSINT Feed",
+            "Secondary OSINT Feed"
+        ]
+    }
+]

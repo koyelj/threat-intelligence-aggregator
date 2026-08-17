@@ -1,0 +1,8 @@
+192.0.2.10
+198.51.100.25
+203.0.113.50
+malicious-example.com
+phishing-example.net
+https://malicious-example.com/login
+https://phishing-example.net/update
+this-is-not-a-valid-ioc

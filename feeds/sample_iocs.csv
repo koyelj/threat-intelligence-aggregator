@@ -1,0 +1,7 @@
+indicator,type
+192.0.2.100,IP
+198.51.100.100,IP
+malicious-csv-example.com,DOMAIN
+https://malicious-csv-example.com/login,URL
+44d88612fea8a8f36de82e1278abb02f,HASH
+attacker-csv@example.com,EMAIL

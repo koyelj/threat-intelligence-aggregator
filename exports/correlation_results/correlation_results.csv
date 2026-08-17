@@ -1,0 +1,2 @@
+IOC,Type,Occurrence Count,Feed Count,Severity,Risk Score,Sources
+8.8.8.8,ip,2,2,MEDIUM,55,"Sample OSINT Feed, Secondary OSINT Feed"

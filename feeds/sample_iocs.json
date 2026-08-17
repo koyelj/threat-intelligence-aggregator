@@ -1,0 +1,22 @@
+{
+    "indicators": [
+        {
+            "indicator": "192.0.2.200"
+        },
+        {
+            "indicator": "198.51.100.200"
+        },
+        {
+            "indicator": "malicious-json-example.com"
+        },
+        {
+            "indicator": "https://malicious-json-example.com/login"
+        },
+        {
+            "indicator": "44d88612fea8a8f36de82e1278abb02f"
+        },
+        {
+            "indicator": "attacker-json@example.com"
+        }
+    ]
+}

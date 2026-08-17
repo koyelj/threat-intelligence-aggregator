@@ -1,0 +1,19 @@
+{
+    "summary": {
+        "feeds_processed": 5,
+        "total_iocs": 37,
+        "unique_iocs": 13
+    },
+    "ioc_types": {
+        "IP": 15,
+        "ip": 2,
+        "URL": 9,
+        "DOMAIN": 9,
+        "HASH": 2
+    },
+    "severity": {
+        "HIGH": 0,
+        "MEDIUM": 1,
+        "LOW": 12
+    }
+}
